@@ -1,0 +1,76 @@
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic.csprojAssemblyReference.cache
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\View\MainWindow.g.cs
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\App.g.cs
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic_MarkupCompile.cache
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic_MarkupCompile.lref
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\View\MainWindow.baml
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic.g.resources
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic.Properties.Resources.resources
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic.csproj.GenerateResource.cache
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\Loner\Desktop\Dynamic-master\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\View\MainWindow.g.cs
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\App.g.cs
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic_MarkupCompile.cache
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic_MarkupCompile.lref
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\View\MainWindow.baml
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic.g.resources
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic.Properties.Resources.resources
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic.csproj.GenerateResource.Cache
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\dragv\Desktop\Dynamic-master\Dynamic-master\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\dragv\Desktop\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\dragv\Desktop\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\dragv\Desktop\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\View\MainWindow.g.cs
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\App.g.cs
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic_MarkupCompile.cache
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic_MarkupCompile.lref
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\View\MainWindow.baml
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic.g.resources
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic.Properties.Resources.resources
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.GenerateResource.Cache
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\dragv\Desktop\Dynamic\Dynamic\obj\Debug\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\View\MainWindow.g.cs
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\App.g.cs
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic_MarkupCompile.cache
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic_MarkupCompile.lref
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\View\MainWindow.baml
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic.g.resources
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic.Properties.Resources.resources
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic.csproj.GenerateResource.Cache
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\obj\Debug\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\NPOI.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\NPOI.OOXML.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\dragv\Documents\Visual Studio 2017\Projects\newDynamic\Dynamic\bin\Debug\ICSharpCode.SharpZipLib.xml

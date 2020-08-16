@@ -1,0 +1,67 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:local="clr-namespace:Dynamic.ViewModel"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+         x:Class="Dynamic.MainWindow"
+        mc:Ignorable="d"
+        Title="Reading logs" Height="auto" Width="auto">
+    <Window.DataContext>
+        <local:MainWindowViewModel/>
+    </Window.DataContext>
+    <Window.Resources>        
+        <Style TargetType="DataGrid">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding result.Count}" Value="0" >
+                    <Setter Property="Visibility" Value="Hidden"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" >
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding result.Count}" Value="0" >
+                    <Setter Property="Visibility" Value="Hidden"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="ListView">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding uids.Count}" Value="0">
+                    <Setter Property="Visibility" Value="Hidden"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>        
+    </Window.Resources>
+    <StackPanel Width="auto" Height="auto">
+        <Menu Width="Auto" Height="20"  HorizontalAlignment="Left" VerticalAlignment="Top">
+            <MenuItem Header="Файл" Height="20">
+                <MenuItem Header="Открыть" Command="{Binding OpenCommand}" />
+            </MenuItem>
+        </Menu>
+        <ListView ItemsSource="{Binding uids}" SelectedItem="{Binding select_UID}" >
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding DoubleClickCommand}" CommandParameter="{Binding SelectedItem}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding nameObject}" Header="Имя объекта"></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding start_check_uid}" Header="Время старта"></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding stop_check_uid}" Header="Время остановки"></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding active_cxema}" Header="Схема проверки"></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding averaging_interval_time}" Header="Интервал измерения"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <DataGrid ItemsSource="{Binding result}" />
+        <Button HorizontalAlignment="Left" Height="25" Command="{Binding Converting}">
+            Создать Excel файл
+        </Button>
+        <Button HorizontalAlignment="Left" Height="25" Command="{Binding OpenExcel}" x:Name="ButExcel">
+            Открыть файл Excel
+        </Button>
+    </StackPanel>
+</Window>
